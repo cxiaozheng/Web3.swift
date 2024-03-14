@@ -24,7 +24,7 @@ HTTP RPC interface provided by this library or a custom RPC interface
 
   s.dependency 'BigInt', '~> 5.2.0'
   s.dependency 'CryptoSwift', '~> 1.5.0'
-  s.dependency 'secp256k1.swift', '~> 0.1.1'
+  #s.dependency 'secp256k1.swift', '~> 0.1.1'
 
   s.source_files  = "Sources/Core/*/*.swift"
   s.module_name = "Web3"
